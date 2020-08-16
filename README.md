@@ -1,4 +1,4 @@
-# Calculate Behaviour
+# Calculate Behavior
 
 This project works out five features of a calculator:
 
