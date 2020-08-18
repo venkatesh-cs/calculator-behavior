@@ -17,7 +17,7 @@ Given calculator is turned on
 When user divides a positive number by a positive number
 then the result is a positive number
 
-Scenario: Divivde a Negative number by a negative number
+Scenario: Divide a Negative number by a negative number
 
 Given calculator is turned on and is capable of handling negative numbers
 When a user divides a negative number by a negative number
